@@ -1,3 +1,3 @@
-Java-Sweeper
-A java implementation of minesweeper
-All binaries are prepackaged in 
+# Java-Sweeper  
+A java implementation of minesweeper  
+Download and run javaSweeper.jar to play
